@@ -132,8 +132,7 @@ while True:
     print(partsOfBody)
     time.sleep(delay)
 
-#test branch
-#git jeszcze raz tescik
+
 
 w.mainloop()
 
