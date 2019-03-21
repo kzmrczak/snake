@@ -133,7 +133,6 @@ while True:
     time.sleep(delay)
 
 
-#testowa zmiana
 
 w.mainloop()
 
